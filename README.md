@@ -1,6 +1,8 @@
 # flume-taildir-source
 基于flume1.7扩展
+
 1.支持递归目录监控
+
 2.支持多行合并和匹配
 
 示例：
