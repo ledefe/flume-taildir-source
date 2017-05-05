@@ -7,6 +7,7 @@
 
   #指定sources的类型
   a1.sources.r1.type = TAILDIR
+  
   a1.sources.r1.channels = c1
   #指定文件元数据存储路径
   a1.sources.r1.positionFile=/var/log/flume/taildir_position.json
